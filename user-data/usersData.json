@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Samim",
+        "address": "Kolkata",
+        "salary": 5000
+    },
+    {
+        "id": 2,
+        "name": "aktar",
+        "address": "malda",
+        "salary": 4000
+    },
+    {
+        "id": 3,
+        "name": "jahed",
+        "address": "dum dum",
+        "salary": 8000
+    },
+    {
+        "id": 4,
+        "name": "imran",
+        "address": "asam",
+        "salary": 6000
+    },
+    {
+        "id": 5,
+        "name": "jahit",
+        "address": "nodia",
+        "salary": 5000
+    }
+]
