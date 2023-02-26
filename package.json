@@ -1,0 +1,23 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "express ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samim0773/NodeJs-By-TT.git"
+  },
+  "author": "samim aktar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samim0773/NodeJs-By-TT/issues"
+  },
+  "homepage": "https://github.com/samim0773/NodeJs-By-TT#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
